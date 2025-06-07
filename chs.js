@@ -362,7 +362,7 @@ var cnItems = {
     "Save import successful!": "存档导入成功！",
     "Continue on. Skips event for remaining run.": "继续前进。跳过剩余运行的事件。",
     "Fresh, cold air. Faint, just past the rubber seams.": "新鲜、寒冷的空气。微弱，刚过橡胶缝。",
-    "Requires 5000 CON. Unlocks shortcut.": "需要5000 CON.解锁快捷方式。",
+    "Requires 5000 CON. Unlocks shortcut.": "需要5000 体质。解锁快捷方式。",
     "Seal": "封印",
     "SECRETE ACID. CORRODE IT.": "酸分泌。腐蚀。",
     "Too small to escape.": "太小了，逃不掉。",
